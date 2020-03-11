@@ -1,0 +1,47 @@
+html{
+  font-size:62.5%
+}
+body{
+  margin:0;
+  font-size: 1.4rem;
+}
+.container{
+  width:960px;
+  margin:0 auto;
+}
+li{
+  list-style:none;
+}
+
+h2{
+  font-size:2rem;
+  color:#e74c3c;
+  cursor:pointer;
+  position:relative;
+}
+
+article .response{
+  background:#ECECEC;
+  padding:20px;
+  display:none;
+}
+
+article.current .response{
+  display:block;
+}
+
+article h2::after{
+  position:absolute;
+  display:block;
+  top:20px;
+  right:0;
+  content:"";
+  width:27px;
+  height:15px;
+  background: url('../images/arrow.png');
+  transition: all linear 0.25s;
+}
+
+article.current h2::after{
+  transform: rotate(90DEG);
+}
