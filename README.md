@@ -4,7 +4,8 @@ Test de création d'un système de FAQ. Agence 36 Pixels
 
 ## Objectif du test.
 
-Réaliser un système de FAQ à la manière de https://www.bdp.fr/aides-faq/
+Réaliser une page web présentant un système de FAQ à la manière de https://naos.com/fr/notre-demarche/les-innovations-brevets/
+La page présente une liste de questions cliquables. Au clic, la réponse apparaît sous la question. 
 Les réponses sont initialement toutes cachées.
 
 ### Objectif du HTML 
@@ -24,6 +25,10 @@ Au clic sur une question :
 - Si il y a d'autres réponses affichées, elles disparaissent.
 
 - La flèche à droite tourne pour indiquer la position ouverte.
+
+### Ce qui n'est pas demandé
+
+- Ne pas faire des header, pas de footer, la page doit simplement présenter initialement une liste de question.
 
 ## Agence 36 Pixels
 
