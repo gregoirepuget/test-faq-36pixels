@@ -5,7 +5,7 @@ Test de création d'un système de FAQ. Agence 36 Pixels
 ## Objectif du test.
 
 Réaliser une page web présentant un système de FAQ à la manière de https://naos.com/fr/notre-demarche/les-innovations-brevets/
-La page présente une liste de questions cliquables. Au clic, la réponse apparaît sous la question. 
+La page présente une liste de questions cliquables. Au clic sur une question, la réponse apparaît juste en dessous. Sur la droite de la question, une flêche se tourne pour montrer l'apparition de la réponse. 
 Les réponses sont initialement toutes cachées.
 
 ### Objectif du HTML 
