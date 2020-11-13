@@ -30,6 +30,10 @@ Au clic sur une question :
 
 - Ne pas faire des header, pas de footer, la page doit simplement présenter initialement une liste de question.
 
+### Bonus
+
+- La transition de l'apparition de la réponse en faisant varier la hauteur de la réponse (cf capture) 
+
 ### Capture d'exemple :
 
 ![Demo](https://github.com/gregoirepuget/test-faq-36pixels/blob/master/capture.gif)
