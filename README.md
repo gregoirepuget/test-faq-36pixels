@@ -30,6 +30,10 @@ Au clic sur une question :
 
 - Ne pas faire des header, pas de footer, la page doit simplement présenter initialement une liste de question.
 
+### Capture d'exemple :
+
+![Demo](https://github.com/gregoirepuget/test-faq-36pixels/blob/master/capture.gif)
+
 ## Agence 36 Pixels
 
 [Agence WordPress](https://www.36pixels.fr/agence/agence-wordpress/) -
